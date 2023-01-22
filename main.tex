@@ -1,0 +1,84 @@
+%%% Template para anotações de aula
+%%% Feito por Daniel Campos com base no template de Willian Chamma que fez com base no template de  Mikhail Klassen
+
+
+
+\documentclass[12pt,a4paper, india]{article}
+
+%%%%%%% INFORMAÇÕES DO CABEÇALHO
+\newcommand{\workingDate}{\textsc{\selectlanguage{english}\today}}
+\newcommand{\userName}{[Course Code]}
+\newcommand{\institution}{SNU Chennai}
+\usepackage{researchdiary_png}
+
+
+
+
+\begin{document}
+
+\begin{center}
+{\textbf {\huge A 2-Layered Advancement in the Architecture of IoT}}\\[5mm]
+{\large Abdullah Sheriff} \\[1mm]
+{\large 21011101005} \\[1mm]
+{\large AI \& DS - Section A} \\[5mm]
+
+\today\\[5mm] %% se quiser colocar data
+\end{center}
+
+
+\section{Topic Summary}
+
+The 3-layer IoT architecture consisting of the Perception Layer, the Network Layer, and the Application Layer has played a significant role during the inception of IoT, yet it did not completely explain its structure and connotation. 
+	IoT draws many parallels to the Communication Network and the Internet. A detailed analysis of the both of their structures was carried out by Wu et al., which enabled the formulation of an improved 5-layer IoT architecture, published in 2010.
+	This research effort is a major contribution to the modern IoT infrastructure.
+
+\section{Key Contributions}
+
+O que foi pedido para fazer? Crie uma lista/tabela dos itens que deveriam ser feitos. Aqui é uma espécie de objetivos.
+
+\section{Views}
+
+Aqui você deve explicar que técnicas foram usadas, de forma teórica e prática. Por exemplo, usou Fourier? Qual é o conceito por trás disso? Quais são as funções que executam? Aqui você pode intercalar partes de código com teoria e também trazer fluxogramas/diagramas explicativos da forma como o problema foi resolvido. 
+
+%% para citar no texto, use \textcite{citacao} para ficar no formato Fulano (Ano), ou use \cite{citacao} para citar  no formato (FULANO, Ano)
+Segue alguns exemplos de como utilizar citações. Segundo \textcite{citacao-exemplo}, a teoria é importante para criar a prática \cite{citacao-exemplo}. As referências são colocadas no arquivo referencias.bib. 
+
+\par
+Aqui vai um exemplo de uma equação utilizando um enviroment (que podem ser usados para criar listas/tabelas/figuras etc): 
+
+\begin{equation}
+\label{eq:sub}
+y[n] = x[Mn]
+\end{equation}
+
+onde $y$ é a saída do sistema, $x$ é a entrada e $M$ é um fator de subamostragem. Veja que é preciso utilizar \$ para escrever variáveis e equações ao longo do texto. É possível referenciar a figura se você criou um label no enviroment, então posso falar "Figura \ref{eq:sub}" sem realmente precisar numerar ela no texto. 
+
+
+
+\subsection{Subseção dos métodos}
+
+Também é possível fazer subseções. É recomendável para organizar o texto.
+
+É possível inserir figuras também. Lembre-se sempre que é importante que a Figura seja OU uma figura própria OU deve ser referenciada. Se for utilizada de uma fonte externa, procure figuras de qualidade. Se for criar Figuras, utilize softwares apropriados (Visio, Corel Draw, Inkscape, etc); É importante que a figura esteja em formato vetorial (por exemplo, o LaTeX trabalha bem como figuras em formato pdf).
+
+
+\par A Figura \ref{fig:exemplo} é uma imagem com o logo da UTFPR. O [!htb] indica a ordem se preferência de onde a figura está, ! tenta deixar a imagem no melhor lugar para o texto ficar organizado, h é here (na mesma posição), t é topo da página e b é bottom (a parte inferior). Na dúvida, se estiver ficando muito feio com o [!htb] coloca [t] que evita que a figura fique fora de lugar.
+
+\begin{figure}[t]
+    \centering
+    \caption{Figura exemplo: logo da UTFPR.}
+    \includegraphics[width=0.5\textwidth]{snulogo.jpg}
+    \caption*{Fonte: Autoria própria.} %% isso é levemente uma gambiarra, mas funciona para o propósito desse template.
+    \label{fig:exemplo}
+\end{figure}
+
+
+
+\section{Agreements, Pitfalls, and Fallacies}
+
+Aqui você deve colocar todas as figuras resultantes, incluindo a discussão sobre o que foi observado e suas considerações; 
+
+%%% as referências devem estar em formato bibTeX no arquivo referencias.bib
+\printbibliography
+
+\end{document}
