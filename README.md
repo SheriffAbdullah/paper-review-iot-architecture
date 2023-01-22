@@ -1,6 +1,8 @@
 # Research Paper Write-up
 
-Research Paper Title: <b>"Research on the architecture of Internet of things"</b> by Miao Wu, Ting-lie Lu, Fei-Yang Ling, ling Sun, and Hui-Ying Du
+Research Paper Title: <b>"Research on the architecture of Internet of things"</b>
+<br>
+Authors: <b>Miao Wu, Ting-lie Lu, Fei-Yang Ling, ling Sun, and Hui-Ying Du</b?
 
 Student Name: Abdullah Sheriff
 <br>
