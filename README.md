@@ -18,4 +18,5 @@ Semester: 4
 
 <hr>
 
-<b><h2>Download PDF:</b></h2> 
+<b><h2>Download PDF:</b></h2> [21011101005_AI&DS A_Abdullah Sheriff_Research Paper Write-up.pdf](https://github.com/SheriffAbdullah/paper-review-iot-architecture/files/10475195/21011101005_AI.DS.A_Abdullah.Sheriff_Research.Paper.Write-up.pdf)
+
