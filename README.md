@@ -1,5 +1,4 @@
-# paper-review-iot-architecture
-# IOT RESEARCH PAPER REVIEW - 1
+# Research Paper Write-up
 
 Research Paper Title: <b>"Research on the architecture of Internet of things"</b> by Miao Wu, Ting-lie Lu, Fei-Yang Ling, ling Sun, and Hui-Ying Du
 
