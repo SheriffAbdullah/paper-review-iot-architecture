@@ -1,6 +1,6 @@
 # Research Paper Write-up
 
-Research Paper Title: <b>"Research on the architecture of Internet of things"</b>
+Research Paper Title: <b>"Research on the Architecture of Internet of Things"</b>
 <br>
 Authors: <b>Miao Wu, Ting-lie Lu, Fei-Yang Ling, ling Sun, and Hui-Ying Du</b>
 
