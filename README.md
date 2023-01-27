@@ -18,5 +18,18 @@ Semester: 4
 
 <hr>
 
-<b><h2>Download PDF:</b></h2> [21011101005_AI&DS A_Abdullah Sheriff_Research Paper Write-up.pdf](https://github.com/SheriffAbdullah/paper-review-iot-architecture/files/10475195/21011101005_AI.DS.A_Abdullah.Sheriff_Research.Paper.Write-up.pdf)
+<b><h2>Download</b></h2> 
+
+<h4>Write-up PDF:</h4>
+[21011101005_AI&DS A_Abdullah Sheriff_Research Paper Write-up.pdf](https://github.com/SheriffAbdullah/paper-review-iot-architecture/files/10518382/21011101005_AI.DS.A_Abdullah.Sheriff_Research.Paper.Write-up.pdf)
+
+<h4> Source Paper PDF: </h4>
+https://ieeexplore.ieee.org/document/5579493
+
+<h4> Inspiration: </h4>
+https://ieeexplore.ieee.org/document/5579493
+
+
+The above research paper was my initial exploration, which led me to the paper published by Wu et al.
+
 
